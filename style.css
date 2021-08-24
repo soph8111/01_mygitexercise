@@ -21,3 +21,9 @@ nav {
   justify-content: center;
   background-color: rgb(247, 154, 154);
 }
+
+video {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

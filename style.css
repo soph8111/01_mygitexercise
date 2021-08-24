@@ -1,0 +1,23 @@
+nav li {
+  list-style-type: none;
+  display: inline;
+  padding: 10px;
+}
+
+nav li:nth-child(2) {
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+}
+
+header {
+  width: 100wv;
+  display: flex;
+  justify-content: center;
+}
+
+nav {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(247, 154, 154);
+}
